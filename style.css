@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(253, 251, 224);
+    max-width: 98%;
+    margin: 0 auto;
+    padding: 0%;
+  }
+
+  h1, h2, h3 {
+    font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  }
+  
+  h1, h2, h3 {
+    font-size: x-large;
+    color: rgb(172, 3, 3);
+  }
+
+h1 {
+    letter-spacing: 5px;
+    text-align: center;
+  }
