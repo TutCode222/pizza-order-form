@@ -5,6 +5,21 @@ body {
     padding: 0%;
   }
 
+  header {
+    width: 100%;
+    border: 20%;
+    padding: 1%;
+    background-color: #04AA6D;
+  }
+
+
+  footer {
+    width: 100%;
+    border: 20%;
+    padding: 1%;
+    background-color: #04AA6D;
+  }
+
   h1, h2, h3 {
     font-family: "Funnel Sans", sans-serif;
   font-optical-sizing: auto;
@@ -12,8 +27,13 @@ body {
   font-style: normal;
   }
   
-  h1, h2, h3 {
+  h2, h3 {
     font-size: x-large;
+    color: rgb(172, 3, 3);
+  }
+
+  h1 {
+    font-size: xx-large;
     color: rgb(172, 3, 3);
   }
 
@@ -69,5 +89,11 @@ h1 {
   img {
     border-radius: 3%;
     max-width: 100%;
+  }
+
+  button {
+    color:rgb(4, 54, 224);
+    background-color: rgb(250, 205, 7);
+    border-color: rgb(4, 54, 224);
   }
 
