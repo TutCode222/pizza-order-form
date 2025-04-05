@@ -46,3 +46,28 @@ h1 {
     padding: 12px 20px;
   }
 
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #04AA6D;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #edf8ea;
+  }
+
+  th {
+    color: #04AA6D;
+  }
+
+  img {
+    border-radius: 3%;
+    max-width: 100%;
+  }
+
