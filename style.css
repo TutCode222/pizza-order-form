@@ -60,6 +60,11 @@ h1 {
     border-radius: 4px;
   }
 
+  .dropdown {
+    width: 20%;
+  }
+  ]
+
   form {
     max-width: 60%;
     margin: 8px 0;
